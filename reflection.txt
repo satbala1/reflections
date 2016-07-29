@@ -1,1 +1,2 @@
 Master mode change
+Now commiting a new change after the branching
