@@ -1,2 +1,3 @@
 Master mode change
 Now commiting a new change after the branching
+In master new updates coming up
