@@ -1,0 +1,11 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 30FA-2DB6
+
+ Directory of C:\Users\bbalakrishnan\tempgit
+
+07/29/2016  12:05 PM    <DIR>          .
+07/29/2016  12:05 PM    <DIR>          ..
+07/29/2016  12:05 PM                 0 reflection.txt
+07/29/2016  12:05 PM                 0 relection.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  34,806,534,144 bytes free
